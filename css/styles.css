@@ -2,6 +2,11 @@ body {
   background-color: cornflowerblue;
 
 }
+
+.epicodus {
+  font-style: italic;
+  
+}
 .Left-Column {
   width: 500px;
   float: left;
@@ -16,6 +21,7 @@ body {
   padding: 2px;
   padding-left: 150px;
   padding-right: 150px;
+  text-align: left;
   
 }
 
@@ -42,5 +48,5 @@ img {
 }
 
 ol {
-  padding-left: 0px;
+  padding-left: 15px;
 }
