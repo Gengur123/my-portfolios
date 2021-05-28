@@ -1,7 +1,9 @@
 body {
   background-color: cornflowerblue;
 }
-
+ol {
+  padding-left: 0px;
+}
 .Left-Column {
   width: 500px;
   float: left;
