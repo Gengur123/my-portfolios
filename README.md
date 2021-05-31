@@ -4,6 +4,7 @@
 
 #### By _**Arthur Lee**_
 
+#### [Git Hub Pages Link](https://gengur123.github.io/my-portfolios/)
 
 ## Technologies Used
 
@@ -12,7 +13,7 @@
 
 ## Description
 
-_This browser application allows users to learn more about Arthur Lee's life, background, hobbies and his some of his Git Hub projects. This application features 3 pictures of Arthur Lee as well as some context behind each picture.It also has 3 links directing users to Arthur Lee's favorite Git Hub repositories._
+_This browser application allows users to learn more about Arthur Lee's life, background, hobbies and his some of his Git Hub projects. This application features 3 pictures of Arthur Lee as well as some context behind each picture. It also has 3 links directing users to Arthur Lee's favorite Git Hub repositories._
 
 ## Setup/Installation Requirements
 
